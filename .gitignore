@@ -1,0 +1,6 @@
+# repositories
+data/
+papers/
+
+# pycharm
+.idea
